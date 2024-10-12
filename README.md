@@ -17,7 +17,7 @@ Parking Simulation I created an AI-powered parking simulation using Unity, Pytho
 -->
 #  <h1 align="center">Hello! I’m Ali Haydar, 👋</h1>
 # 
-I'm a software developer living in Ankara. Currently, I’m enhancing my skills in machine learning and mobile development.
+<p align="center">I'm a software developer living in Ankara. Currently, I’m enhancing my skills in machine learning and mobile development.</p>
 #
 ### <h3 align="center">🛠️ My Skills</h3>
 #
